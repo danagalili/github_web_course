@@ -17,6 +17,8 @@ Ordered lists (& nesting)
 2. Italics.   
    1. Combining attributes  e.g. Bold and italics.   
    2. Quoting blocks of text.  
+> this is a quoted section. 
+>> quoted quote.   
 
 Tables.   
 Web-links             e.g. www.google.com.   
